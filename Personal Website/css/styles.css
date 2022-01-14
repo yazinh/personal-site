@@ -1,0 +1,155 @@
+/***************TAG CSS*****************/
+body{
+  background: linear-gradient(#DE834D,#A3423C);
+  color: white;
+  text-align: center;
+  font-family: 'Merriweather',serif;
+  margin: 0px;
+  padding: 0px;
+  font-size: 1.3rem;
+}
+
+h1{
+  font-size: 5.265rem;
+  margin: 50px auto 0 auto;
+  line-height: 2;
+  font-family: 'Sacramento', cursive;
+
+
+}
+h2{
+  font-size: 2.5rem;
+  font-family: 'Montserrat', serif;
+  font-weight: normal;
+  color: white;
+  text-align: center;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 1.2rem;
+}
+
+hr{
+  border: 9px dotted white;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+  width: 4%;
+  border-color: white;
+  opacity: 40%;
+}
+
+/***************TOP CONAINER*****************/
+.top-container{
+  padding-top: 200px;
+  color: #f7fdff;
+
+}
+
+.amateur-text{
+  font-size: 1rem;
+
+}
+
+.orange-mountain{
+  position: relative;
+  height:40%;
+  width: 50%;
+  margin-top: 10px;
+  opacity: 90%;
+
+}
+
+.white-cloud{
+  height: 10%;
+  width: 10%;
+}
+.cloud1{
+  position: absolute;
+  right: 10%;
+  top: 20%;
+}
+.cloud2{
+  position: absolute;
+  right: 80%;
+  top: 55%;
+}
+
+
+/***************MIDDLE CONTAINER*****************/
+
+.middle-container{
+  height: 1300px;
+  position: relative;
+  background-color: none;
+}
+.skills-title{
+  margin-top: 125px;
+  margin-bottom: 75px;
+}
+.profile{
+  text-align: center;
+  width: 40%;
+  left: 25%;
+  margin: 0 auto 120px auto;
+
+
+}
+.skills{
+  text-align: left;
+  margin: 0 auto 0 auto;
+  width: 40%;
+  left: 25%;
+}
+.skill-row{
+  margin-top: 50px;
+  margin-bottom: 120px;
+}
+
+.code-image{
+  height: 17%;
+  width: 17%;
+  float: left;
+  margin-right: 50px;
+}
+
+.water-polo-image{
+  height: 17%;
+  width: 17%;
+  float: right;
+  margin-left: 50px;
+}
+
+.contact-me{
+  margin: 125px auto 0 auto;
+}
+.get-in-touch{
+  margin: 0 auto 10px auto;
+}
+.open-to-anything{
+  margin: 0 auto 50px auto;
+}
+.btn {
+  background: linear-gradient(#A3423C, #af5541);
+  color: white;
+  border: 2px solid #A3423C;
+  border-radius: 19px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+/************BOTTOM CONTAINER******************/
+.bottom-container{
+  background-color: #8f322d;
+  height: 100px;
+  margin: 0;
+  padding: 35px 0 0 0;
+}
+.footer-link{
+  color: white;
+  margin: 7px
+}
